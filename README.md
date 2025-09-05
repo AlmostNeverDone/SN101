@@ -41,11 +41,10 @@ This project demonstrates the practical use of the OpenSSL toolkit for cryptogra
 
 | Aspect <br/>(面向) | Learning content and purpose <br/>(學習內容與目的) |
 | ----------------- | ----------------------------------------------- |
-| Intrusion Detection <br/>(入侵偵測) | Install and configure Snort 3 for packet inspection. <br/>(安裝並設定 Snort 3 以進行封包檢測) |
-| Custom Rule Writing <br/>(自訂規則撰寫) | Write ICMP rules to detect ping requests. <br/>(撰寫 ICMP 規則以偵測 ping 請求) |
-| Configuration Management <br/>(組態管理) | Modify `snort.lua` to include custom rules. <br/>(修改 `snort.lua` 以加入自訂規則) |
-| Network Security Testing <br/>(網路安全測試) | Perform controlled ping tests to trigger alerts. <br/>(執行受控的 ping 測試以觸發警示) |
-| Practical Security Thinking <br/>(資安實務思維) | Understand detection workflows and alert logging. <br/>(理解偵測流程與警示紀錄方式) |
+| Cryptographic toolkit <br/>(加密工具) | Learn the usage of OpenSSL for cryptographic operations. <br/>(學習使用 OpenSSL 進行加密作業) |
+| Algorithm exploration <br/>(演算法探索) | Explore digest and cipher algorithms supported by OpenSSL. <br/>(探索 OpenSSL 支援的雜湊與加密演算法) |
+| Random key generation <br/>(隨機金鑰生成) | Generate and view cryptographic random numbers using OpenSSL. <br/>(透過 OpenSSL 產生與檢視隨機金鑰) |
+| Automation with scripting <br/>(腳本自動化) | Write a Bash script to automate random number generation. <br/>(撰寫 Bash 腳本以自動化產生亂數金鑰) |
 </div>
 <br/>
 
@@ -57,15 +56,12 @@ This project demonstrates the practical use of the OpenSSL toolkit for cryptogra
 [Environment]
 * Oracle VM VirtualBox (VirtualBox 虛擬機)</b>
 * Kali Linux OS (Kali Linux 作業系統)</b>
-* Snort 3 Intrusion Detection System (Snort 3 入侵檢測系統)</b>
 
 [Tasks]
-* Install Snort 3 (安裝 Snort 3)</b>
-* Verify Snort Installation (確認安裝)</b>
-* Create a Custom Rule File (建立自訂規則檔)</b>
-* Configure snort.lua (設定 snort.lua)</b>
-* Run Snort with Configuration (執行 Snort)</b>
-* Test the Rule (測試規則)</b>
+* Check OpenSSL Version (檢查 OpenSSL 版本)</b>
+* Explore Supported Commands and Algorithms (探索支援的指令與演算法)</b>
+* Generate Random Numbers (產生隨機數字)</b>
+* Automate with Bash Script (使用 Bash 腳本自動化)</b>
 
 ---------
 
