@@ -68,45 +68,30 @@ This project demonstrates the practical use of the OpenSSL toolkit for cryptogra
 <h2>Practice 實踐</h2>
 
 <p align="center">
-<b>Task 1: Install Snort 3<br/>(安裝 Snort 3)</b><br/>
-<img src="https://i.imgur.com/AcDYaXN.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Task 1: Check OpenSSL Version<br/>(檢查 OpenSSL 版本)</b><br/>
+<img src="https://i.imgur.com/2Sc5HNp.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>Task 2: Verify Snort Installation<br/>(確認安裝)</b><br/>
-<img src="https://i.imgur.com/wZEG9at.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Task 2: Explore Supported Commands and Algorithms<br/>(探索支援的指令與演算法)</b><br/>
+<img src="https://i.imgur.com/uLQqz29.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>Task 3: Create a Custom Rule File<br/>(建立自訂規則檔)</b><br/>
-<img src="https://i.imgur.com/gYm5K22.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Task 3: Generate Random Numbers<br/>(產生隨機數字)</b><br/>
+<img src="https://i.imgur.com/lRJXM0r.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>Task 4: Configure snort.lua<br/>(設定 snort.lua)</b><br/>
-<img src="https://i.imgur.com/nxOOOIs.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Task 4: Automate with Bash Script<br/>(使用 Bash 腳本自動化)</b><br/>
+<img src="https://i.imgur.com/23mfFYL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-<b>Task 5: Run Snort with Configuration<br/>(執行 Snort)</b><br/>
-<img src="https://i.imgur.com/nXQoLa0.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<b>Task 6: Test the Rule<br/>(測試規則)</b><br/>
-<img src="https://i.imgur.com/WCj2tLW.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 ---------
 
 <h2>Results 成果展示</h2>
 
-* Successfully installed and verified Snort 3 on Kali Linux.<br/>
-  (成功在 Kali Linux 上安裝並驗證 Snort 3)
+Through this project, I practiced using OpenSSL for cryptographic operations. The steps covered installation verification, algorithm exploration, random key generation, and automation with Bash scripting. This practical knowledge is useful for understanding fundamental cryptographic processes and applying them in real-world system security contexts.
 
-* Configured custom ICMP detection rules in icmp.rules and integrated them into snort.lua.<br/>
-  (在 icmp.rules 中設定 自訂 ICMP 偵測規則，並整合至 snort.lua)
-  
-* Executed Snort with console output and confirmed real-time alerts triggered by ICMP packets (ping).<br/>
-  (使用終端機輸出模式執行 Snort，並確認 即時警示 在 ICMP 封包   (ping) 時觸發)
-  
-* Demonstrated understanding of Snort 3 rule structure and differences from Snort 2 configuration.<br/>
-  (展示對 Snort 3 規則結構及其與 Snort 2 組態差異的理解)
+透過本次專題，我熟悉了使用 OpenSSL 進行加密作業的流程。步驟涵蓋了安裝驗證、演算法探索、隨機金鑰生成，以及使用 Bash 腳本自動化的應用。這些實務技能有助於理解基礎加密流程，並在實際資訊安全情境中加以應用。
 
 
 ---------
