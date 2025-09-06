@@ -79,10 +79,14 @@ This project demonstrates the practical use of the OpenSSL toolkit for cryptogra
 <b>Task 3: Generate Random Numbers<br/>(產生隨機數字)</b><br/>
 <img src="https://i.imgur.com/lRJXM0r.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+* Display the random number in Hexadecimal 2-byte units.<br/>(以十六進位2位元組為單位顯示隨機數)</b>
+<br />
 <br />
 <b>Task 4: Automate with Bash Script<br/>(使用 Bash 腳本自動化)</b><br/>
 <img src="https://i.imgur.com/23mfFYL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+* This script automates random key generation and prints the result in hex.<br/>(此腳本自動產生隨機金鑰並以十六進位輸出結果)</b>
+<br/>
 
 
 ---------
