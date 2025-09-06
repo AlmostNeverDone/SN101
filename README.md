@@ -93,9 +93,9 @@ This project demonstrates the practical use of the OpenSSL toolkit for cryptogra
 
 <h2>Results 成果展示</h2>
 
-Through this project, I practiced using OpenSSL for cryptographic operations. The steps covered installation verification, algorithm exploration, random key generation, and automation with Bash scripting. This practical knowledge is useful for understanding fundamental cryptographic processes and applying them in real-world system security contexts.
+Through this project, we practiced using OpenSSL for cryptographic operations. The steps covered installation verification, algorithm exploration, random key generation, and automation with Bash scripting. This practical knowledge is useful for understanding fundamental cryptographic processes and applying them in real-world system security contexts.
 
-透過本次專題，我熟悉了使用 OpenSSL 進行加密作業的流程。步驟涵蓋了安裝驗證、演算法探索、隨機金鑰生成，以及使用 Bash 腳本自動化的應用。這些實務技能有助於理解基礎加密流程，並在實際資訊安全情境中加以應用。
+透過本次專題，我們熟悉了使用 OpenSSL 進行加密作業的流程。步驟涵蓋了安裝驗證、演算法探索、隨機金鑰生成，以及使用 Bash 腳本自動化的應用。這些實務技能有助於理解基礎加密流程，並在實際資訊安全情境中加以應用。
 
 
 ---------
